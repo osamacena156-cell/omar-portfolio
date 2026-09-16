@@ -473,7 +473,7 @@ function App() {
 
                 <div className="project-links">
 
-                  <a href="https://xpressomar.fwh.is/" target="_blank" rel="noreferrer">
+                  <a href="https://omar-portfolio-wine-psi.vercel.app/" target="_blank" rel="noreferrer">
                     View Project
                     <FaArrowRight />
                   </a>
@@ -525,7 +525,7 @@ function App() {
 
                 <div className="project-links">
 
-                  <a href="https://xpressomar.fwh.is/" target="_blank" rel="noreferrer">
+                  <a href="https://omar-portfolio-wine-psi.vercel.app/" target="_blank" rel="noreferrer">
                     View Project
                     <FaArrowRight />
                   </a>
